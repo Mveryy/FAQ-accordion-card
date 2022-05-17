@@ -12,7 +12,7 @@ Esta é uma solução para o [FAQ accordion card challenge on Frontend Mentor](h
 
 ## Links
 
-Link:
+Link: https://mveryy.github.io/FAQ-accordion-card/
 
 ## Aprendizados
 
