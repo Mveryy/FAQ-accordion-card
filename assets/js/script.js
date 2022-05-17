@@ -17,10 +17,6 @@ title.forEach((item) => {
     });
 });
 
-panel.forEach((item) => {
-    item.addEventListener;
-});
-
 // Voltar o estado do Title, Arrow e Text para o padrão.
 function resetAll() {
     title.forEach((item) => {
